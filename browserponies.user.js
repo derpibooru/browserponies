@@ -8,7 +8,8 @@
 // @include     https://www.derpiboo.ru/*
 // @include     https://trixiebooru.org/*
 // @include     https://www.trixiebooru.org/*
-// @version     1.0.0
+// @require     https://code.jquery.com/jquery-2.2.4.min.js
+// @version     1.0.1
 // @description Tag-reactive HTML viewer eenahps for Derpibooru.
 // ==/UserScript==
 
